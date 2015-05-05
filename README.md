@@ -1,6 +1,6 @@
 ISOGUN
 --------
-Unity isometric shooter example.
+An endless isometric Unity micro-game.
 
 * Please read all sections of this guide.  
 * Questions: [@jasonrwalters](http://twitter.com/jasonrwalters)
