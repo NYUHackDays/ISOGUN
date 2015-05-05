@@ -1,9 +1,6 @@
-UnityYGM
+ISOGUN
 --------
-
-Unity game workshop for Young Game Makers.  Example game is a 3D endless shooter.
-![Screenshot](http://glitchbeam.com/wp-content/uploads/2015/01/ygm_workshop.png)
-
+Unity example isometric shooter.
 
 * Please read all sections of this guide.  
 * Questions: [@jasonrwalters](http://twitter.com/jasonrwalters)
@@ -11,7 +8,7 @@ Unity game workshop for Young Game Makers.  Example game is a 3D endless shooter
 
 Requirements
 --------
-* [Unity 4.6+](http://unity3d.com/unity/download)
+* [Unity 5+](http://unity3d.com/unity/download)
 
 
 Unity Resources
