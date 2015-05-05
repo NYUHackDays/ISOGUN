@@ -1,6 +1,6 @@
 ISOGUN
 --------
-Unity example isometric shooter.
+Unity isometric shooter example.
 
 * Please read all sections of this guide.  
 * Questions: [@jasonrwalters](http://twitter.com/jasonrwalters)
